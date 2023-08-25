@@ -1,5 +1,5 @@
 name: banner_swipper
-description: 一个轮播图组件，支持全平台，支持自动轮播，支持自定义指示器，支持网络图片和本地图片，网络图片已做缓存，默认为缓存七天，可用于实现欢迎页面, 开源不易，喜欢或者用到的朋友给个小心心呗.
+description: 一个轮播图组件，支持全平台，支持自动轮播，支持自定义指示器，支持网络图片和本地图片.
 version: 0.0.1
 homepage: https://github.com/BearLatte/banner_swipper
 
