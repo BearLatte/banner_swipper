@@ -1,0 +1,15 @@
+.DS_Store
+.atom/
+.idea
+.packages
+.dart_tool/
+.pub/
+packages
+pubspec.lock
+.vscode/
+*.log
+tmp/
+ref/
+build/
+coverage/
+flutter_export_environment.sh
